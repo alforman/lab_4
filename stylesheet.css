@@ -1,0 +1,40 @@
+ul{
+    background-color: #1E1570; padding:25px; text-align: right;
+}
+
+
+li {
+
+    list-style-type: none; 
+    display: inline; padding-left:30px;
+    padding-right:30px; 
+}
+
+a {
+
+    text-decoration: none;color: white;
+}
+
+p.body { color: black; }
+
+body{
+    margin: 20px;
+}
+
+footer{
+    margin:auto; 
+}
+
+h1{
+    color:#1E1570; text-align: center; margin-bottom: 50px; margin-top: 40px;
+}
+
+h3{
+    color:rgb(155, 50, 168);
+}
+
+li.header{
+    list-style-type: none; 
+    display: inline; padding-left:30px;
+    padding-right:30px; 
+}
